@@ -1,4 +1,4 @@
-[Safe Notes](logo.png)
+![Safe Notes](logo.png)
 🛡️ Safe Notes
 
 Secure. Private. AI-Powered.
