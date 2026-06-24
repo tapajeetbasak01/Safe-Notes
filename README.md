@@ -126,4 +126,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by Mohmmad Faizan Ahmed and Tapajeet Basak
+Made with ❤️ by Mohammad Faizan Ahmed and Tapajeet Basak
