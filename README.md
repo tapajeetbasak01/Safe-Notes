@@ -79,16 +79,6 @@ Create outlines and structured content.
 
 ---
 
-📊 Why Choose Safe Notes?
-
-Feature| Safe Notes| Typical Apps
-Encryption| ✅| ⚠️
-Offline First| ✅| ❌
-AI Features| ✅| ⚠️
-No Tracking| ✅| ❌
-
----
-
 📥 Download
 
 Download the latest APK from the Releases page (Recommended):
