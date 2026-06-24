@@ -1,3 +1,4 @@
+[Safe Notes](logo.png)
 🛡️ Safe Notes
 
 Secure. Private. AI-Powered.
@@ -90,9 +91,11 @@ No Tracking| ✅| ❌
 
 📥 Download
 
-Download the latest APK from the Releases page:
+Download the latest APK from the Releases page (Recommended):
 
 https://github.com/tapajeetbasak01/Safe-Notes/releases/latest
+
+Or from the main repository
 
 ---
 
